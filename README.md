@@ -1,1 +1,1 @@
-# javascriptś eventss pracice on a basic site: miviaje.com
+# javascript's events practice on a basic site: miviaje.com
